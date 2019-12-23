@@ -42,6 +42,7 @@ window.addEventListener("mousedown", function(event){
     console.log(caraSelect);
   if (caraSelect == 1 || caraSelect == 0) {
     window.open("https://jorgedlg.github.io/regaloMel/Asterion.html");
+
   }
 }, false)
 
