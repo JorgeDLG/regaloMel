@@ -41,7 +41,7 @@ window.addEventListener("mousedown", function(event){
   caraSelect = intersects[0].faceIndex;
     console.log(caraSelect);
   if (caraSelect == 1 || caraSelect == 0) {
-    window.open("../regaloAstrid/Asterion.html");
+    window.open("https://jorgedlg.github.io/regaloMel/Asterion.html");
   }
 }, false)
 
