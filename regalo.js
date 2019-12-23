@@ -41,7 +41,7 @@ window.addEventListener("mousedown", function(event){
   caraSelect = intersects[0].faceIndex;
     console.log(caraSelect);
   if (caraSelect == 1 || caraSelect == 0) {
-     window.open("https://www.actors-studio.org/web/images/pdf/jorge_luis_borges_la_casa_de_asterion.pdf");
+    window.open("../regaloAstrid/Asterion.html");
   }
 }, false)
 
